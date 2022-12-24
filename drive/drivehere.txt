@@ -1,3 +1,11 @@
-attempting to upload drive.hdd
 
-If not, I'll edit this to another link where you can get it.
+You should be able to use this to create the drive.hdd file.
+
+https://github.com/ThatOSDev/UEFI-GPT-image-creator
+
+Keep in mind, I did supply my original imagecreator source code to this repo. Just look in the subfolder here.
+
+https://github.com/ThatOSDev/ASM_UEFI_2-9/tree/master/imagecreator
+
+So you have options on how to create the HDD file.
+
